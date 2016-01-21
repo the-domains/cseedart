@@ -1,0 +1,28 @@
+name: cseedart
+favicon: null
+layout_spectrum: 0.9714691604021937
+typography_spectrum: 0.8394634055439383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7651126137934625
+  lightness: 0.0196768743917346
+  saturation: 0.6172801097854972
+  rhythmicContrast: 0.5456135640852153
+purpose: []
